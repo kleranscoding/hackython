@@ -34,6 +34,27 @@ section, img {
   left: 60px;
 }
 
+.LoginButton {
+  position: absolute;
+  top: 400px;
+  left: 70px;
+}
+
+.JoinNow {
+  position: absolute;
+  top: 450px;
+  left: 75px;
+}
+
+h3 {
+  font-size: 21px;
+  color: white;
+  position: absolute;
+  top: 250px;
+  left: 40px;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
