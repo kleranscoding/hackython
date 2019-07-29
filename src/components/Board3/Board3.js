@@ -6,7 +6,7 @@ const Board3 = () => {
 
     return (
         <div>
-
+            
         </div>
     )
 

@@ -24,8 +24,14 @@
 }
 
 body {
-  background: url('GettyImages-862622434.jpg');
+  background: url('First Screen-image@3x.png');
   background-size: cover;
+}
+
+section, img {
+  position: absolute;
+  top: 30px;
+  left: 60px;
 }
 
 

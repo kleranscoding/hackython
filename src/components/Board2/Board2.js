@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Board2 (props) => {
+const Board2 = (props) => {
 
 }
 
