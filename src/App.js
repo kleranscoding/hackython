@@ -7,14 +7,8 @@ import { Link } from 'react-router-dom';
 // import LoginPage from '../../components/LoginPage/LoginPage';
 
 import './App.css';
-import { Button } from 'react-bootstrap';
-import { Card } from 'react-bootstrap';
-import ButtonGroup from 'react-bootstrap/ButtonGroup'
-
-
 
 import "bootstrap/dist/css/bootstrap.min.css";
-
 
 class App extends Component {
   constructor() {
@@ -28,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="heading"><h3>Explore. Connect. Inspire</h3></div>
+        <div className="heading">Explore. Connect. Inspire</div>
         <section className="peerLogo" id="html">
           <img src={peerlogo} height={50} width={118} alt="logo" /><br></br>
         </section>
