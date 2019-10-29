@@ -24,7 +24,7 @@ const dbUsers = users["userLists"];
 const dbTags = tags["tagLists"];
 const dbEvents = events["eventsList"];
 
-const attendeesMax = 10-6;
+const attendeesMax = 10;
 
 app.get('/', (req, res)=>{
   return res.status(200).json({
